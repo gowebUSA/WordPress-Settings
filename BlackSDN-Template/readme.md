@@ -27,4 +27,7 @@
       - Upload Demo files
       
 ## PhP Settings
-- 
+- memory_limit = 256M
+- upload_max_filesize = 32M
+- post_max_size = 32M
+- max_execution_time = 180
