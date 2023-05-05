@@ -24,4 +24,7 @@
 
   - Import
       - Run importer
-      -  
+      - Upload Demo files
+      
+## PhP Settings
+- 
