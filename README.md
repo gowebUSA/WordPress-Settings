@@ -1,16 +1,20 @@
 # WordPress-Settings
+Link: https://youtu.be/VnjeR-bsRM4?si=PvxeSstCFxfVjoj7 
 
-## BlackSDN Template
+## Setup
+- Get domain name and hosting
+   * https://bluehost.sjv.io/daR19W 
+- Install WordPress
+- Login
 
-### /e8
-e8mtg.com/wp
+## Options
+- Delete plug-ins
+- Change password
+- Update WordPress
+- Search engine ready
+- Install theme
+- Install template
 
-### /e8wp
-e8.e8mtg.com
 
-- Jetpack cannot be connected
 
-### /e8wp2
-www.e8mtg.com
-
-- Jetpack connected
+## Design
