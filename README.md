@@ -20,6 +20,7 @@ Link: https://youtu.be/VnjeR-bsRM4?si=PvxeSstCFxfVjoj7
    - Astra
 - Install template
 - Backup website
+   - All in one, by ServMask
 - Change website name
 - Create a new page
 - Transparent menu
