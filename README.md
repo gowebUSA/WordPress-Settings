@@ -17,6 +17,7 @@ Link: https://youtu.be/VnjeR-bsRM4?si=PvxeSstCFxfVjoj7
 - update Permalinks
 - Search engine ready
 - Install theme
+   - Astra
 - Install template
 - Backup website
 - Change website name
