@@ -30,6 +30,9 @@ Link: https://youtu.be/VnjeR-bsRM4?si=PvxeSstCFxfVjoj7
   - Astra
   - Advance
 - Add menu item
+  - Login, use Loginpress by WPBrigade
+  - Register
+  - Profile
 - Delete page
 - Add blog post
 - Set blog to Homepage
