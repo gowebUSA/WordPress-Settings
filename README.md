@@ -23,7 +23,12 @@ Link: https://youtu.be/VnjeR-bsRM4?si=PvxeSstCFxfVjoj7
    - All in one, by ServMask
 - Change website name
 - Create a new page
+  - Use Elementor
+  - Use sample template
 - Transparent menu
+  - Customize
+  - Astra
+  - Advance
 - Add menu item
 - Delete page
 - Add blog post
